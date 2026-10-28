@@ -1,1 +1,0 @@
-karpathy/README.md
